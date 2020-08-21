@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/hashout"/>
+    <filter root="/content/hashout"/>
+    <filter root="/content/dam/hashout"/>
+</workspaceFilter>
