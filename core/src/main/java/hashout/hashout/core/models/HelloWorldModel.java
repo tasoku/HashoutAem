@@ -29,6 +29,8 @@ public class HelloWorldModel {
 
     @Inject
     private SlingSettingsService settings;
+    
+   
 
     @Inject @Named("sling:resourceType") @Default(values="No resourceType")
     protected String resourceType;
